@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!-- Apex Classes & Triggers -->
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+
+    <!-- Lightning Web Components -->
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <!-- Custom Objects & Fields -->
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!-- Profiles & Permission Sets -->
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+
+    <!-- Flows -->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+
+    <!-- Pages -->
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+
+    <!-- Email Templates -->
+    <types>
+        <members>*</members>
+        <name>EmailTemplate</name>
+    </types>
+
+    <version>60.0</version>
+</Package>
